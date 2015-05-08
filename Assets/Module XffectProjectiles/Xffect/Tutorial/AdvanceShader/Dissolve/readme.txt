@@ -1,0 +1,1 @@
+NOTE the dissolve progress is controlled by option 'Advance Shader Control' in EffectLayer.
